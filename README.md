@@ -14,7 +14,7 @@ La federación mundial de atletismo a solicitado una programa que permita gestio
 Para poder realizar este programa se deberá realizar lo siguiente:
 
   * Se deberá investigar e implementar la lectura de archivos de texto (CSV) el cual tendrá la siguiente estructura:
-
+echo
 ```
 Nombre,país,disciplina,genero,medallas
 Pablo,México,Salto triple,M,2
@@ -28,6 +28,7 @@ Luisa,Canada,Salto de Altura,5
     * Un vector para la disciplina
     * Un vector para el género
     * Un vector para el número de medallas de Oro
+    hecho
 
   > **Nota**
   >
