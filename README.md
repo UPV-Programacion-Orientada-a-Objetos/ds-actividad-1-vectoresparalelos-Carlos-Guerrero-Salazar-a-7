@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9quZgW1u)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20639325)
 # Actividad - Vectores Paralelos
 
 ## El Problema: Registro de Atletas Olímpicos
@@ -12,7 +14,7 @@ La federación mundial de atletismo a solicitado una programa que permita gestio
 Para poder realizar este programa se deberá realizar lo siguiente:
 
   * Se deberá investigar e implementar la lectura de archivos de texto (CSV) el cual tendrá la siguiente estructura:
-
+echo
 ```
 Nombre,país,disciplina,genero,medallas
 Pablo,México,Salto triple,M,2
@@ -26,6 +28,7 @@ Luisa,Canada,Salto de Altura,5
     * Un vector para la disciplina
     * Un vector para el género
     * Un vector para el número de medallas de Oro
+    hecho
 
   > **Nota**
   >
